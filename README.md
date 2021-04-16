@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+안녕하세요! 프론트엔드 개발자 지망생 민범기입니다.
+다른 사람들보다 뛰어난 부분이 있다면 문제해결을 위해 부단히 노력하고 문제를 해결하는것을 좋아하는것입니다
 <!--
 **alsqjarlwkd/alsqjarlwkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
