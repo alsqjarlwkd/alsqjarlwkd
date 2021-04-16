@@ -7,10 +7,8 @@
 - JAVASCRIPT
 - REACT
 
-- 📫 1일 1커밋 꾸준히 잔디 심기 도전! ...
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-
+- 📫 1일 1커밋 꾸준히 잔디 심기 도전! ...                 
+![alsqjarlwkd's github stats](https://github-readme-stats.vercel.app/api?username=alsqjarlwkd&show_icons=true)
 
 <!--
 **alsqjarlwkd/alsqjarlwkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
