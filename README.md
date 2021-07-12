@@ -7,7 +7,7 @@
 - JAVASCRIPT
 - REACT
 
-- 📫 1일 1커밋 꾸준히 잔디 심기 도전! ...                 
+            
 ![alsqjarlwkd's github stats](https://github-readme-stats.vercel.app/api?username=alsqjarlwkd&show_icons=true)
 
 <!--
