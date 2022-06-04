@@ -1,11 +1,17 @@
 ### Hi there 👋
-안녕하세요! 프론트엔드 개발자 지망생 민범기입니다.
+안녕하세요! 프론트엔드 개발자 민범기입니다.
 
 - 🌱 현재 공부하고 있는 언어는 ...
 - HTML5
 - CSS
-- JAVASCRIPT
-- REACT
+- JavaScript
+- React
+- Next.js
+- Redux
+- Redux-saga
+- emotion
+- Rest-API
+- Graph-Ql
 
             
 ![alsqjarlwkd's github stats](https://github-readme-stats.vercel.app/api?username=alsqjarlwkd&show_icons=true)
